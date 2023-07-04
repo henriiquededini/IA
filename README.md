@@ -2,7 +2,7 @@ IA
 
 Projetos da disciplina de Inteligência Artificial da UNIFESP
 
-Apresentação no Youtube:
+Apresentação no Youtube: https://youtu.be/nTrt1SZWxjc
 
 Apresentação WIA-ICT/2023: https://docs.google.com/presentation/d/1JOP_VhdSRhQiefwRkJmMTH5AuyO59VUbiGBuzEhjmZQ/edit?usp=sharing
 
